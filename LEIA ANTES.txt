@@ -1,0 +1,34 @@
+O meu projeto integrativo se resume em um
+aplicativo de ponto e cartão de ponto.
+
+Fiz um algoritmo de função fazendo o
+calculo de quantas horas foram trabalhadas
+mostrando ao usuário se ele teve um saldo
+positivo ou negativo de carga horária.
+
+O algoritmo ainda não consta horario de almoço.
+
+O limite definido para esse caso foi 5 minutos:
+Se dever 5+ minutos fica com saldo negativo
+Se fizer 5+ minutos fica com saldo positivo
+
+Pode ser alterado através da váriavel cincominutos
+
+Para inserir as informações, o código ficou estruturado
+da seguinte forma:
+
+Valor da hora
+Valor do minuto
+
+Exemplo:
+Para registrar a hora inicial 06:00:00
+Digite a hora incial: 6
+Digite o minuto incial: 0
+
+Para a hora final 14:15:00
+Digite a hora final: 14
+Digite o minuto final: 15
+
+Para a carga horária de 8 horas
+Digite a hora da carga horaria: 8
+Digite o minuto da carga horaria: 0
